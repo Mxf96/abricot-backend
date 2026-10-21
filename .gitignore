@@ -4,6 +4,8 @@ node_modules
 
 /generated/prisma
 
+/Dist
+
 # Base de données
 *.db
 *.sqlite
